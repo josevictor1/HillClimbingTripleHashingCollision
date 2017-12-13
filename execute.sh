@@ -1,0 +1,1 @@
+g++ md5.cpp collision.cpp main.cpp -Ofast -std=c++11
