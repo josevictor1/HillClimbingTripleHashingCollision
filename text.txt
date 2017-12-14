@@ -1,0 +1,1663 @@
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 6
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 29
+1475
+32472
+66053
+2
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 2
+ Resultado 
+m1 59471
+m2 17408
+m3 23121
+collision 29
+49300
+5444
+45256
+7
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 7
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 28
+3882
+5491
+90627
+2
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 2
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 31
+11128
+85783
+3089
+0
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 0
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 32
+18945
+37308
+43747
+25
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 25
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 30
+78051
+12787
+9162
+3
+ Inicial 
+m1 78051
+m2 12787
+m3 9162
+collision 3
+ Resultado 
+m1 60050
+m2 22715
+m3 17235
+collision 26
+28024
+30346
+41630
+27
+ Inicial 
+m1 28024
+m2 30346
+m3 41630
+collision 27
+ Resultado 
+m1 49615
+m2 28039
+m3 22346
+collision 29
+41313
+18851
+39836
+26
+ Inicial 
+m1 41313
+m2 18851
+m3 39836
+collision 26
+ Resultado 
+m1 35218
+m2 39701
+m3 25081
+collision 33
+3494
+94473
+2033
+0
+ Inicial 
+m1 3494
+m2 94473
+m3 2033
+collision 0
+ Resultado 
+m1 61797
+m2 21956
+m3 16247
+collision 24
+63292
+13640
+23068
+24
+ Inicial 
+m1 63292
+m2 13640
+m3 23068
+collision 24
+ Resultado 
+m1 52806
+m2 24783
+m3 22411
+collision 32
+5154
+23726
+71120
+5
+ Inicial 
+m1 5154
+m2 23726
+m3 71120
+collision 5
+ Resultado 
+m1 39037
+m2 38950
+m3 22013
+collision 29
+71233
+7212
+21555
+18
+ Inicial 
+m1 71233
+m2 7212
+m3 21555
+collision 18
+ Resultado 
+m1 60270
+m2 20169
+m3 19561
+collision 26
+90001
+8817
+1182
+0
+ Inicial 
+m1 90001
+m2 8817
+m3 1182
+collision 0
+ Resultado 
+m1 30298
+m2 31893
+m3 37809
+collision 30
+97315
+297
+2388
+0
+ Inicial 
+m1 97315
+m2 297
+m3 2388
+collision 0
+ Resultado 
+m1 30640
+m2 30559
+m3 38801
+collision 30
+72556
+22821
+4623
+6
+ Inicial 
+m1 72556
+m2 22821
+m3 4623
+collision 6
+ Resultado 
+m1 39852
+m2 28117
+m3 32031
+collision 29
+93070
+1518
+5412
+0
+ Inicial 
+m1 93070
+m2 1518
+m3 5412
+collision 0
+ Resultado 
+m1 36105
+m2 38426
+m3 25469
+collision 33
+24394
+3155
+72451
+4
+ Inicial 
+m1 24394
+m2 3155
+m3 72451
+collision 4
+ Resultado 
+m1 50324
+m2 28823
+m3 20853
+collision 30
+MAXIMO
+m1 35218
+m2 39701
+m3 25081
+collision 33
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 6
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 29
+1475
+32472
+66053
+2
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 2
+ Resultado 
+m1 59471
+m2 17408
+m3 23121
+collision 29
+49300
+5444
+45256
+7
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 7
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 28
+3882
+5491
+90627
+2
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 2
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 31
+11128
+85783
+3089
+0
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 0
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 32
+18945
+37308
+43747
+25
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 25
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 30
+78051
+12787
+9162
+3
+ Inicial 
+m1 78051
+m2 12787
+m3 9162
+collision 3
+ Resultado 
+m1 60050
+m2 22715
+m3 17235
+collision 26
+28024
+30346
+41630
+27
+ Inicial 
+m1 28024
+m2 30346
+m3 41630
+collision 27
+ Resultado 
+m1 49615
+m2 28039
+m3 22346
+collision 29
+41313
+18851
+39836
+26
+ Inicial 
+m1 41313
+m2 18851
+m3 39836
+collision 26
+ Resultado 
+m1 35218
+m2 39701
+m3 25081
+collision 33
+3494
+94473
+2033
+0
+ Inicial 
+m1 3494
+m2 94473
+m3 2033
+collision 0
+ Resultado 
+m1 61797
+m2 21956
+m3 16247
+collision 24
+63292
+13640
+23068
+24
+ Inicial 
+m1 63292
+m2 13640
+m3 23068
+collision 24
+ Resultado 
+m1 52806
+m2 24783
+m3 22411
+collision 32
+5154
+23726
+71120
+5
+ Inicial 
+m1 5154
+m2 23726
+m3 71120
+collision 5
+ Resultado 
+m1 39037
+m2 38950
+m3 22013
+collision 29
+71233
+7212
+21555
+18
+ Inicial 
+m1 71233
+m2 7212
+m3 21555
+collision 18
+ Resultado 
+m1 60270
+m2 20169
+m3 19561
+collision 26
+90001
+8817
+1182
+0
+ Inicial 
+m1 90001
+m2 8817
+m3 1182
+collision 0
+ Resultado 
+m1 30298
+m2 31893
+m3 37809
+collision 30
+97315
+297
+2388
+0
+ Inicial 
+m1 97315
+m2 297
+m3 2388
+collision 0
+ Resultado 
+m1 30640
+m2 30559
+m3 38801
+collision 30
+72556
+22821
+4623
+6
+ Inicial 
+m1 72556
+m2 22821
+m3 4623
+collision 6
+ Resultado 
+m1 39852
+m2 28117
+m3 32031
+collision 29
+93070
+1518
+5412
+0
+ Inicial 
+m1 93070
+m2 1518
+m3 5412
+collision 0
+ Resultado 
+m1 36105
+m2 38426
+m3 25469
+collision 33
+24394
+3155
+72451
+4
+ Inicial 
+m1 24394
+m2 3155
+m3 72451
+collision 4
+ Resultado 
+m1 50324
+m2 28823
+m3 20853
+collision 30
+MAXIMO
+m1 35218
+m2 39701
+m3 25081
+collision 33
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 6
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 29
+1475
+32472
+66053
+2
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 2
+ Resultado 
+m1 59471
+m2 17408
+m3 23121
+collision 29
+49300
+5444
+45256
+7
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 7
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 28
+3882
+5491
+90627
+2
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 2
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 31
+11128
+85783
+3089
+0
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 0
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 32
+18945
+37308
+43747
+25
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 25
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 30
+78051
+12787
+9162
+3
+ Inicial 
+m1 78051
+m2 12787
+m3 9162
+collision 3
+ Resultado 
+m1 60050
+m2 22715
+m3 17235
+collision 26
+28024
+30346
+41630
+27
+ Inicial 
+m1 28024
+m2 30346
+m3 41630
+collision 27
+ Resultado 
+m1 49615
+m2 28039
+m3 22346
+collision 29
+41313
+18851
+39836
+26
+ Inicial 
+m1 41313
+m2 18851
+m3 39836
+collision 26
+ Resultado 
+m1 35218
+m2 39701
+m3 25081
+collision 33
+3494
+94473
+2033
+0
+ Inicial 
+m1 3494
+m2 94473
+m3 2033
+collision 0
+ Resultado 
+m1 61797
+m2 21956
+m3 16247
+collision 24
+63292
+13640
+23068
+24
+ Inicial 
+m1 63292
+m2 13640
+m3 23068
+collision 24
+ Resultado 
+m1 52806
+m2 24783
+m3 22411
+collision 32
+5154
+23726
+71120
+5
+ Inicial 
+m1 5154
+m2 23726
+m3 71120
+collision 5
+ Resultado 
+m1 39037
+m2 38950
+m3 22013
+collision 29
+71233
+7212
+21555
+18
+ Inicial 
+m1 71233
+m2 7212
+m3 21555
+collision 18
+ Resultado 
+m1 60270
+m2 20169
+m3 19561
+collision 26
+90001
+8817
+1182
+0
+ Inicial 
+m1 90001
+m2 8817
+m3 1182
+collision 0
+ Resultado 
+m1 30298
+m2 31893
+m3 37809
+collision 30
+97315
+297
+2388
+0
+ Inicial 
+m1 97315
+m2 297
+m3 2388
+collision 0
+ Resultado 
+m1 30640
+m2 30559
+m3 38801
+collision 30
+72556
+22821
+4623
+6
+ Inicial 
+m1 72556
+m2 22821
+m3 4623
+collision 6
+ Resultado 
+m1 39852
+m2 28117
+m3 32031
+collision 29
+93070
+1518
+5412
+0
+ Inicial 
+m1 93070
+m2 1518
+m3 5412
+collision 0
+ Resultado 
+m1 36105
+m2 38426
+m3 25469
+collision 33
+24394
+3155
+72451
+4
+ Inicial 
+m1 24394
+m2 3155
+m3 72451
+collision 4
+ Resultado 
+m1 50324
+m2 28823
+m3 20853
+collision 30
+MAXIMO
+m1 35218
+m2 39701
+m3 25081
+collision 33
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 6
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 29
+1475
+32472
+66053
+2
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 2
+ Resultado 
+m1 59471
+m2 17408
+m3 23121
+collision 29
+49300
+5444
+45256
+7
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 7
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 28
+3882
+5491
+90627
+2
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 2
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 31
+11128
+85783
+3089
+0
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 0
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 32
+18945
+37308
+43747
+25
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 25
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 30
+78051
+12787
+9162
+3
+ Inicial 
+m1 78051
+m2 12787
+m3 9162
+collision 3
+ Resultado 
+m1 60050
+m2 22715
+m3 17235
+collision 26
+28024
+30346
+41630
+27
+ Inicial 
+m1 28024
+m2 30346
+m3 41630
+collision 27
+ Resultado 
+m1 49615
+m2 28039
+m3 22346
+collision 29
+MAXIMO
+m1 37733
+m2 36601
+m3 25666
+collision 32
+89384
+7023
+3593
+1
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 1
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 30
+6863
+73014
+20123
+3
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 3
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 31
+4568
+60225
+35207
+6
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 6
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 29
+1475
+32472
+66053
+2
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 2
+ Resultado 
+m1 59471
+m2 17408
+m3 23121
+collision 29
+49300
+5444
+45256
+7
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 7
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 28
+3882
+5491
+90627
+2
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 2
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 31
+11128
+85783
+3089
+0
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 0
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 32
+18945
+37308
+43747
+25
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 25
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 30
+78051
+12787
+9162
+3
+ Inicial 
+m1 78051
+m2 12787
+m3 9162
+collision 3
+ Resultado 
+m1 60050
+m2 22715
+m3 17235
+collision 26
+28024
+30346
+41630
+27
+ Inicial 
+m1 28024
+m2 30346
+m3 41630
+collision 27
+ Resultado 
+m1 49615
+m2 28039
+m3 22346
+collision 29
+MAXIMO
+m1 37733
+m2 36601
+m3 25666
+collision 32
+89384
+7023
+3593
+272
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 272
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 3717
+6863
+73014
+20123
+1191
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 1191
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 4304
+4568
+60225
+35207
+1118
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 1118
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 4210
+1475
+32472
+66053
+365
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 365
+ Resultado 
+m1 35129
+m2 24908
+m3 39963
+collision 3991
+49300
+5444
+45256
+1383
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 1383
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 3987
+3882
+5491
+90627
+237
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 237
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 3376
+11128
+85783
+3089
+343
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 343
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 4099
+18945
+37308
+43747
+3486
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 3486
+ Resultado 
+m1 18945
+m2 37308
+m3 43747
+collision 3486
+32134
+39559
+28307
+4099
+ Inicial 
+m1 32134
+m2 39559
+m3 28307
+collision 4099
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 4099
+47687
+42340
+9973
+2254
+ Inicial 
+m1 47687
+m2 42340
+m3 9973
+collision 2254
+ Resultado 
+m1 49158
+m2 21782
+m3 29060
+collision 3568
+MAXIMO
+m1 36227
+m2 32559
+m3 31214
+collision 4304
+89384
+7023
+3593
+272
+ Inicial 
+m1 89384
+m2 7023
+m3 3593
+collision 272
+ Resultado 
+m1 34023
+m2 44664
+m3 21313
+collision 3717
+6863
+73014
+20123
+1191
+ Inicial 
+m1 6863
+m2 73014
+m3 20123
+collision 1191
+ Resultado 
+m1 36227
+m2 32559
+m3 31214
+collision 4304
+4568
+60225
+35207
+1118
+ Inicial 
+m1 4568
+m2 60225
+m3 35207
+collision 1118
+ Resultado 
+m1 37765
+m2 28654
+m3 33581
+collision 4210
+1475
+32472
+66053
+365
+ Inicial 
+m1 1475
+m2 32472
+m3 66053
+collision 365
+ Resultado 
+m1 35129
+m2 24908
+m3 39963
+collision 3991
+49300
+5444
+45256
+1383
+ Inicial 
+m1 49300
+m2 5444
+m3 45256
+collision 1383
+ Resultado 
+m1 25662
+m2 39177
+m3 35161
+collision 3987
+3882
+5491
+90627
+237
+ Inicial 
+m1 3882
+m2 5491
+m3 90627
+collision 237
+ Resultado 
+m1 51660
+m2 26050
+m3 22290
+collision 3376
+11128
+85783
+3089
+343
+ Inicial 
+m1 11128
+m2 85783
+m3 3089
+collision 343
+ Resultado 
+m1 37733
+m2 36601
+m3 25666
+collision 4099
+18945
+37308
+43747
+3486
+ Inicial 
+m1 18945
+m2 37308
+m3 43747
+collision 3486
+ Resultado 
+m1 18945
+m2 37308
+m3 43747
+collision 3486
+32134
+39559
+28307
+4099
+ Inicial 
+m1 32134
+m2 39559
+m3 28307
+collision 4099
+ Resultado 
+m1 32134
+m2 39559
+m3 28307
+collision 4099
+47687
+42340
+9973
+2254
+ Inicial 
+m1 47687
+m2 42340
+m3 9973
+collision 2254
+ Resultado 
+m1 49158
+m2 21782
+m3 29060
+collision 3568
+2216
+26928
+70856
+477
+ Inicial 
+m1 2216
+m2 26928
+m3 70856
+collision 477
+ Resultado 
+m1 28024
+m2 30346
+m3 41630
+collision 3962
+2727
+57696
+39577
+718
+ Inicial 
+m1 2727
+m2 57696
+m3 39577
+collision 718
+ Resultado 
+m1 41313
+m2 18851
+m3 39836
+collision 3550
+56857
+18923
+24220
+2967
+ Inicial 
+m1 56857
+m2 18923
+m3 24220
+collision 2967
+ Resultado 
+m1 34946
+m2 34014
+m3 31040
+collision 4291
+33418
+10644
+55938
+2247
+ Inicial 
+m1 33418
+m2 10644
+m3 55938
+collision 2247
+ Resultado 
+m1 19219
+m2 49892
+m3 30889
+collision 3420
+33590
+59539
+6871
+1597
+ Inicial 
+m1 33590
+m2 59539
+m3 6871
+collision 1597
+ Resultado 
+m1 27815
+m2 44694
+m3 27491
+collision 3907
+926
+36736
+62338
+246
+ Inicial 
+m1 926
+m2 36736
+m3 62338
+collision 246
+ Resultado 
+m1 34048
+m2 24829
+m3 41123
+collision 3966
+9366
+4980
+85654
+488
+ Inicial 
+m1 9366
+m2 4980
+m3 85654
+collision 488
+ Resultado 
+m1 50908
+m2 18188
+m3 30904
+collision 3343
+55082
+34549
+10369
+2188
+ Inicial 
+m1 55082
+m2 34549
+m3 10369
+collision 2188
+ Resultado 
+m1 30298
+m2 31893
+m3 37809
+collision 4093
+41893
+36791
+21316
+3746
+ Inicial 
+m1 41893
+m2 36791
+m3 21316
+collision 3746
+ Resultado 
+m1 41893
+m2 36791
+m3 21316
+collision 3746
+43438
+50890
+5672
+1406
+ Inicial 
+m1 43438
+m2 50890
+m3 5672
+collision 1406
+ Resultado 
+m1 30640
+m2 30559
+m3 38801
+collision 4105
+18185
+29706
+52109
+3171
+ Inicial 
+m1 18185
+m2 29706
+m3 52109
+collision 3171
+ Resultado 
+m1 18185
+m2 29706
+m3 52109
+collision 3171
+48413
+31781
+19806
+3410
+ Inicial 
+m1 48413
+m2 31781
+m3 19806
+collision 3410
+ Resultado 
+m1 39852
+m2 28117
+m3 32031
+collision 4195
+91639
+2852
+5509
+175
+ Inicial 
+m1 91639
+m2 2852
+m3 5509
+collision 175
+ Resultado 
+m1 34970
+m2 30297
+m3 34733
+collision 4216
+74549
+20667
+4784
+821
+ Inicial 
+m1 74549
+m2 20667
+m3 4784
+collision 821
+ Resultado 
+m1 22043
+m2 43738
+m3 34219
+collision 3740
+MAXIMO
+m1 36227
+m2 32559
+m3 31214
+collision 4304

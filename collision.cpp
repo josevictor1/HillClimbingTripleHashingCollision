@@ -32,7 +32,7 @@ int cryptohash(const string& original) {
 }
 
 StringToHash create_messages() {
-	default_random_engine generator;
+	default_random_engine generator(100);
 	StringToHash messages;
 	string created;
 	int random;
@@ -103,86 +103,6 @@ int execute(int m1, int m2, int m3){
 	return hashes3.size();
 }
 
-void hill_climbing(Configuration configuration, Configuration &result){
-	
-	int cont = 0;
-	int value;
-	bool flag = true;
-	Configuration current = configuration;
-
-	while(flag){
-		Configuration sons[10];
-		Configuration proximo = sons[get_best(current,sons)];
-
-		//cout << "proximo "<< proximo.conf[3]<< endl;
-		//cout << "corrente  "<< current.conf[3]<< endl;
-		//cout << "count "<< cont <<endl; 
-		if(current.conf[3] > proximo.conf[3] || (current.conf[3] == proximo.conf[3] && cont > 10) || cont == 10){
-			//cout << "passou " << endl; 
-			result = current;
-			cout << " Inicial "<< endl;
-			printf_conf(configuration);
-			cout << " Resultado "<< endl;
-			printf_conf(result);
-			flag = false;
-		}
-		else if(current.conf[3] == proximo.conf[3]){
-			//cout << " entrou segundo "<< endl;
-			cont++;
-			value = proximo.conf[3];
-		}
-		else if(proximo.conf[3] == value && cont > 5){
-			//cout << " entrou terceiro "<< endl;
-			int i = random()%9;
-			current = sons[i];
-		}
-
-		current = proximo;
-	}
-	   
-}
-
-
-int get_best(Configuration configuration, Configuration sons[9]){
-
-	//Configuration sons[9];
-
-	for(size_t i = 0; i < 9; i++){
-		/*for(size_t j = 0; j < 3; j++){
-			sons[i].conf[j] = configuration.conf[j];
-		}*/
-		sons[i] = configuration;
-	}
-	for(size_t i = 0; i < 9; i++){
-		for(size_t j = 0; j < 3; j++){
-			if(j != i%3){
-				sons[i].conf[j] -= 1000;
-				break; 
-			}
-		}
-		sons[i].conf[i] += 1000; 
-		sons[i].conf[3] = execute(sons[i].conf[0],sons[i].conf[1],sons[i].conf[2]);
-	}
-	int max = 0;
-	for(size_t i = 0; i < 9; i++){
-		/*
-		for(size_t j = 0; j < 4; j++){
-			cout << sons[i].conf[j] << " ";	
-		}
-		cout << endl;*/
-		if(sons[max].conf[3] < sons[i].conf[3])
-			max = i;
-		 
-	}
-	return max;	
-}
-
-void printf_conf(Configuration configuration){
-	cout << "m1 "<< configuration.conf[0] << endl;
-	cout << "m2 "<< configuration.conf[1] << endl;
-	cout << "m3 "<< configuration.conf[2] << endl;
-	cout << "collision "<< configuration.conf[3] << endl;
-}
 
 /*
 void calculate(Configurations &configuration){

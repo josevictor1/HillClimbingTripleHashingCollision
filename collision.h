@@ -7,7 +7,7 @@
 #include <cassert>
 
 
-#define SIZE_HASH	4
+#define SIZE_HASH	4 
 #define SIZE_M      100000 
 #define N_SETS      3
 #define SIZE_STR	10

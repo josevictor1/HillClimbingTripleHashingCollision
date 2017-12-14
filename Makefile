@@ -1,9 +1,9 @@
 CXX = g++
-CXXFLAGS = -Ofast -std=c++11
+CXXFLAGS = -g -std=c++11
 
 
 
-collision: md5.o collision.o main.o
+collision: md5.o cryptohash.o main.o
 	$(CXX) $(CXXFLAGS) $^ -o $@
 
 clean:
